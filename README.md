@@ -1,13 +1,38 @@
-# Hey! Nice to see you.
-Welcome to my page!
-I'm Franco, Fullstack developer from  Peru.
-## Things I code with
-![enter image description here](https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
-![enter image description here](https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
-![enter image description here](https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
-![enter image description here](https://camo.githubusercontent.com/d60afb008bc0bcde7ea8720637928cb02c0f9a6d795dad7382f688a17e7515de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![enter image description here](https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![enter image description here](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-### About me
-- 🔭 I’m currently student of University.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=1000&color=A5B4FC&vCenter=true&repeat=false&random=false&width=436&height=32&lines=Full-Stack+Developer" alt="Typing SVG" /></a>
+<h2 style="margin-top: 0;">About me</h2>
+<p>I'm Fullstack developer from  Peru, with a degree in <b>computer science</b>, very passionate about new technologies and learning them.<br/>
+I like challenges, <b>solving problems</b>, especially if it has to do with the client. That's why the <b>frontend</b> attracts my attention.<br/>
+I make sure my projects have a balance between <b>UI/UX</b> and optimization, as well as following good coding practices.
+I am currently focusing on learning more about design patterns and software architecture.</p>
+<h2>Skills</h2>
+<h3>Things I code with</h3>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-0f172a?logo=javascript"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-0f172a?logo=typescript"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Python-0f172a?logo=python"></a>
+<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-0f172a?logo=java&logoColor=white"></a>
+<h3>Frontend Technologies</h3>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-0f172a?logo=html5"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-0f172a?logo=css3"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/React-0f172a?logo=react"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/React_Query-0f172a?logo=reactquery"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Zustand-0f172a"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-0f172a?logo=tailwindcss"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Radix_UI-0f172a?logo=radixui"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Next_JS-0f172a?logo=nextdotjs"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Angular-0f172a?logo=angular"></a>
+<h3>Backend Technologies</h3>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Node_JS-0f172a?logo=nodedotjs"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Express-0f172a?logo=express"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-0f172a?logo=mongodb"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Postgresql-0f172a?logo=postgresql"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mysql-0f172a?logo=mysql"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/SQL_Server-0f172a?logo=microsoftsqlserver"></a>
+<h3>Others</h3>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Git-0f172a?logo=git"></a>
+<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Postman-0f172a?logo=postman"></a>
+<a href="#"></a>
+
+
+
+
 
